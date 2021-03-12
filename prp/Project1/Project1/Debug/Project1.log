@@ -1,0 +1,6 @@
+﻿  源.cpp
+C:\Codes++\grade 2 term 1\prp\Project1\Project1\源.cpp(18,32): error C2065: “CV_LOAD_IMAGE_GRAYSCALE”: 未声明的标识符
+C:\Codes++\grade 2 term 1\prp\Project1\Project1\源.cpp(88,34): error C2065: “CV_MINMAX”: 未声明的标识符
+C:\Codes++\grade 2 term 1\prp\Project1\Project1\源.cpp(95,46): error C2065: “CV_THRESH_BINARY”: 未声明的标识符
+C:\Codes++\grade 2 term 1\prp\Project1\Project1\源.cpp(127,23): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Codes++\grade 2 term 1\prp\Project1\Project1\源.cpp(142,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据

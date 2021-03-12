@@ -1,0 +1,11 @@
+debug/basic.o
+debug/console.o
+debug/expression.o
+debug/main.o
+debug/mainwindow.o
+debug/running.o
+debug/moc_basic.o
+debug/moc_console.o
+debug/moc_expression.o
+debug/moc_mainwindow.o
+debug/moc_running.o

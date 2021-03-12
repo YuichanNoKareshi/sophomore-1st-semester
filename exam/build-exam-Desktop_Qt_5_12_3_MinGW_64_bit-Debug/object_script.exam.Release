@@ -1,0 +1,11 @@
+release/button.o
+release/button0.o
+release/console.o
+release/main.o
+release/mainwindow.o
+release/window.o
+release/moc_button.o
+release/moc_button0.o
+release/moc_console.o
+release/moc_mainwindow.o
+release/moc_window.o

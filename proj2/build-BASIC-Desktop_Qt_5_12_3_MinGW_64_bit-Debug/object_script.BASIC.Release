@@ -1,0 +1,11 @@
+release/basic.o
+release/console.o
+release/expression.o
+release/main.o
+release/mainwindow.o
+release/running.o
+release/moc_basic.o
+release/moc_console.o
+release/moc_expression.o
+release/moc_mainwindow.o
+release/moc_running.o
